@@ -3,7 +3,7 @@
 * Infrastructure
     * Networking
         * Key Concepts:
-            * ExpressRoute, VPN, Firewall
+            * directconnect, VPN, Firewall
         * Questions:
             * What external services does the system connect to? (e.g. On-Prem DB, other cloud, etc.)
             * How do users interact and connect with the system? (e.g. User will VPN in and access web console)
@@ -13,7 +13,7 @@
 
     * Compute
         * Key Concepts:
-            * VM, VMSS, Azure Functions, Batch, Kubernetes
+            * ec2, kube, lambda, elastic bean
         * Questions:
             * Will the system run in containers and/or Kubernetes?
             * What are the application bottlenecks? (e.g. CPU, Memory, etc.)
@@ -22,7 +22,7 @@
 
     * Storage
         * Key Concepts:
-            * Blob, NFS, SMB, Data Lake
+            * S3, FsX, EalsticFS, , Data Lake
         * Discovery Questions:
             * How does the system persist data? (e.g. user data is stored in MySQL, media files stored in blob)
             * What format is the data in?  (e.g. images, 1000's of media files)
@@ -30,7 +30,7 @@
 
     * IoT
         * Key Concepts:
-            * IoT Hub, IoT Central
+            * 
         * Questions:
             * How are the IoT devices deployed?
             * How are the IoT devices maintained and upgraded?

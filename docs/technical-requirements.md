@@ -17,14 +17,15 @@
     * What are your biggest threat vectors?
     * Do you need Firewall?  Egress/Ingress restrictions?
     * Are you subject to any regulatory/organizational mandates or policies?
+    * what kind of threat model do you forsee, are you a major target?
+    * How do you currently handel defense in depth?
 
 * Identity
-    * Do you need to support identities from identity providers external to Azure Active Directory (eg., Google, Facebook, Active Directory Federation Services)? 
-        * Do you need to share your apps and resources with external users? (B2B collaboration)
-        * Do you need to build user journeys with a white-label identity management solution for consumer- and customer-facing apps (B2C collaboration)
-        * Refer to the 'Compare External Identities solutions table for more decisions points (https://docs.microsoft.com/en-us/azure/active-directory/external-identities/compare-with-b2c)
-    * What are you currently using to authenticate your users?
-    * What are you currently using to authorize user/group/service access to your services?
+    * How will you manage identity for the solution?
+        * what will your Authn look like (authentication, password/username, MFA)
+        * what will your Authz look like, how do you idenify who is authorized and to what
+    * User provisioning plans, pre-provision or provision on first access
+    * User De-Provisioning plans, how do you off board a user?
 
 * Data
     * Do you have retention policy? How is data backed up? 

@@ -4,20 +4,20 @@
     * Key Concepts:
         * Motivations
     * Questions:
-        * Why are we moving the solution to Azure?
+        * Why are we moving the solution to the cloud?
         * What are the business objectives or quanitifiable business goals?
         * What outcomes will you achieve for customer?
-        * Is there a timeline for building the solution Azure?
-        * Is there a targeted event or date for an announcement about the solution's availability on Azure?
+        * Is there a timeline for building the solution the cloud?
+        * Is there a targeted event or date for an announcement about the solution's availability on the cloud?
 * Customers
     * Key Concepts:
         * Customer profiles, expectations
     * Questions:
-        * Is there a deal or customer opportunity associated with having the solution in Azure?
+        * Is there a deal or customer opportunity associated with having the solution in the cloud?
         * Are customers requesting the solution in Azure or the Cloud?
         * How many customers do you have?
-        * Are customers willing to work with you to pilot the solution in Azure?
-        * Are your customers already using Azure?
+        * Are customers willing to work with you to pilot the solution in the cloud?
+        * Are your customers already using the cloud?
         * Are customers already comfortable using Azure/Cloud?
         * Are your customers already using services like M365, O365 or D365?
 * Partners
@@ -41,7 +41,7 @@
         * What roles in that industry do customers have (e.g Healthcare: payer, provider, research, pharma, etc)
         * Are there any special industry/compliance security requirements?
         * Are there government regulations that need to be considered?
-        * Will the solution be required to run in certain Azure datacenters (Government or Geo specific)?
+        * Will the solution be required to run in certain cloud datacenters (Government or Geo specific)?
         * What log retention policies do you have? 
 * Model
     * Key Concept:
